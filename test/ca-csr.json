@@ -1,0 +1,16 @@
+{
+    "CN": "Internal CA",
+    "key": {
+        "algo": "rsa",
+        "size": 2048
+    },
+    "names": [
+        {
+            "C": "US",
+            "L": "ALB",
+            "ST": "NY",
+            "O": "ZITER PERSONAL",
+            "OU": "HEAD DEV"
+        }
+    ]
+}
